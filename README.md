@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @joerithys
 - 👀 I’m interested in Html5 Game & Watch games
 - 🌱 I’m currently learning to set up emulator consoles
+- These are the games i already have, most of thel mad myself, some even not physically existing...
 - 📫 How to reach me : joerithys@hotmail.com
 
 <!---
