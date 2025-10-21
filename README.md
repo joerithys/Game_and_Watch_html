@@ -4,7 +4,8 @@
 - These are the games i already have, most of them made myself, 
   some enhanced from others, some even not physically existing...
 - 📫 How to reach me : joerithys@hotmail.com
-- My game page : https://www.franckx-design.be/joeri/play_g_w.html
+- My collective game page : https://www.franckx-design.be/joeri/play_g_w.html
+- My personal game page : https://flyzy67.itch.io
 
 <!---
 joerithys/joerithys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
